@@ -6,7 +6,7 @@ import numpy as np
 
 #TODO: Request input from user
 
-input_img = cv2.imread('practice.jpeg', 1)
+input_img = cv2.imread('sys.argv[1]', 1)
 
 # Convert color image to grayscale
 
